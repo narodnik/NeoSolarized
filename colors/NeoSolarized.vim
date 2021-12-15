@@ -122,7 +122,7 @@ let g:neosolarized_underline = get(g:, "neosolarized_underline", 1)
 let g:neosolarized_contrast = get(g:, "neosolarized_contrast", "normal")
 let g:neosolarized_diffmode = get(g:, "neosolarized_diffmode", "normal")
 let g:neosolarized_termBoldAsBright = get(g:, "neosolarized_termBoldAsBright", 1)
-let g:neosolarized_termtrans = get(g:, "neosolarized_termtrans", 0)
+let g:neosolarized_termtrans = get(g:, "neosolarized_termtrans", 1)
 let g:neosolarized_visibility = get(g:, "neosolarized_visibility", "normal")
 let g:neosolarized_vertSplitBgTrans = get(g:, "neosolarized_vertSplitBgTrans", 1)
 
